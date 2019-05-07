@@ -5,8 +5,8 @@ header-img: img/bg/bg_index.jpg
 email: callrenjie@163.com
 description: "rj Blog"
 keyword: ""
-url: "http://rj.blog"              # your host, for absolute URL
-baseurl: "/rj-blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://callrenjie.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 github_username: callrenjie
