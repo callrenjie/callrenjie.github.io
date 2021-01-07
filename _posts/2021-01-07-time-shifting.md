@@ -14,7 +14,7 @@ tags:
 
 如何将new Date（）转换为标准的时间格式（YYYY-MM-DD HH:mm:ss），直接在js里面，不使用moment,也不使用getFullYear()，getMonth()这样拼接的方法。
 
-![](D:\renjBlog\img\401577057-5cef4130d33b8_articlex.png)
+![1](\img\401577057-5cef4130d33b8_articlex.png)
 
 执行结果：
 
