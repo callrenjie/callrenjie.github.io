@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "Promise"
+subtitle:   "Promise的then方法与实例方法们"
+date:       2021-04-20 12:00:00
+author:     "callrenjie"
+header-img: "img/bg/hello_world.jpg"
+catalog: true
+tags:
+    - 记录
+---
+
 ### Promise then的方法 resolve 与 reject
 
 JS中的Promise一共有三种状态，分别为pending(等待)、fulfilled(成功)、rejected(失败),
